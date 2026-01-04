@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Post"
+  name = "Projects & Posts"
   pageRef = "posts"
   weight = 20
 

@@ -12,7 +12,7 @@
 
 
 [[main]]
-  name = "Progetti & Post"
+  name = "Progetti & Posts"
   pageRef = "posts"
   weight = 20
 
