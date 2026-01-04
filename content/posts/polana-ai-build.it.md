@@ -9,7 +9,7 @@ categories: ["Progetti", "Infrastruttura"]
 
 ## Il Contesto
 
-Nel mio percorso di specializzazione come **IT Administrator** verso ruoli **MLOps**, ho deciso di costruire un'infrastruttura locale per gestire l'intero ciclo di vita di un'applicazione basata su Intelligenza Artificiale. L'obiettivo era passare dalla teoria alla pratica, orchestrando container e modelli LLM in un ambiente controllato ma scalabile, sfruttando le mie basi solide (CompTIA A+, ITF+, Azure Fundamentals).
+Nel mio percorso di specializzazione come **IT Specialist** verso ruoli **MLOps**, ho deciso di costruire un'infrastruttura locale per gestire l'intero ciclo di vita di un'applicazione basata su Intelligenza Artificiale. L'obiettivo era passare dalla teoria alla pratica, orchestrando container e modelli LLM in un ambiente controllato ma scalabile.
 
 ## L'Architettura
 
@@ -40,7 +40,7 @@ Una volta stabilizzato il cluster K3s:
 
 ## Risultati e Prossimi Passi
 
-In meno di 24 ore, sono passato da un Mini PC spento a un'infrastruttura MLOps funzionante che ospita un LLM all'avanguardia, gestita come codice (Infrastructure as Code).
+Quindi sono passato da un Mini PC spento a un'infrastruttura MLOps funzionante che ospita un LLM all'avanguardia, gestita come codice (Infrastructure as Code).
 
 I prossimi step per **Polana AI** includono:
 * Automatizzare l'aggiornamento dei modelli tramite pipeline CI/CD.
