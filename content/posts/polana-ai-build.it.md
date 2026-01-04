@@ -24,7 +24,7 @@ Il progetto **Polana AI** non è solo un'installazione software, è un'architett
 
 ## La Cronistoria del Build (3 Gennaio 2026)
 
-### 1. L'Installazione "Bare Metal" (Mattina)
+### 1. L'Installazione "Bare Metal"
 La giornata è iniziata con un'installazione pulita di Ubuntu Server tramite chiavetta USB, preparando il "ferro" per il suo nuovo ruolo.
 
 ### 2. La Transizione verso l'Orchestrazione
@@ -32,7 +32,7 @@ Ho inizialmente testato il deploy tramite Docker classico. Tuttavia, per allinea
 * **Sfida Tecnica:** Durante la migrazione, si è creato un conflitto di porte tra i vecchi processi Docker e i nuovi Pod Kubernetes.
 * **Risoluzione:** Ho eseguito un audit dei processi con `ps aux` e `docker ps`, terminato i vecchi container e pulito il sistema con `docker system prune` e `ncdu` per recuperare spazio su disco, lasciando il campo libero a K3s.
 
-### 3. Deploy e Configurazione (Sera)
+### 3. Deploy e Configurazione
 Una volta stabilizzato il cluster K3s:
 1.  Ho eseguito il pull del modello **Gemma 3 4B** direttamente nel volume persistente del pod Ollama con `kubectl exec`.
 2.  Ho configurato il servizio Open WebUI come `NodePort` per l'accesso LAN.
