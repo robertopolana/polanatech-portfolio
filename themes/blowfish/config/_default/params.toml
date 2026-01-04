@@ -159,13 +159,6 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # token = "XXXXXX"
   # enableTrackEvent = true
 
-[buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "right"
-
 [verification]
   # google = ""
   # bing = ""
