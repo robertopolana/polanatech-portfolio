@@ -16,9 +16,9 @@
   weight = 20
 
 [[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/roberto-polana-65b431135/"
   weight = 200
 
 #[[main]]
@@ -30,7 +30,7 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/robertopolana/"
   weight = 400
 
 
