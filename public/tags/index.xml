@@ -6,26 +6,16 @@
     <description>Recent content in Tags on PolanaTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2026 Blowfish</copyright>
+    <managingEditor>robertopolana@gmail.com (Roberto Polana)</managingEditor>
+    <webMaster>robertopolana@gmail.com (Roberto Polana)</webMaster>
+    <copyright>© 2026 Roberto Polana</copyright>
     <lastBuildDate>Sat, 03 Jan 2026 22:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>AI Locale</title>
-      <link>http://localhost:1313/tags/ai-locale/</link>
-      <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
-      <guid>http://localhost:1313/tags/ai-locale/</guid>
-      <description></description>
-      
-    </item>
     
     <item>
       <title>Gemma 3</title>
       <link>http://localhost:1313/tags/gemma-3/</link>
       <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
       <guid>http://localhost:1313/tags/gemma-3/</guid>
       <description></description>
       
@@ -35,7 +25,7 @@
       <title>HomeLab</title>
       <link>http://localhost:1313/tags/homelab/</link>
       <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
       <guid>http://localhost:1313/tags/homelab/</guid>
       <description></description>
       
@@ -45,7 +35,7 @@
       <title>K3s</title>
       <link>http://localhost:1313/tags/k3s/</link>
       <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
       <guid>http://localhost:1313/tags/k3s/</guid>
       <description></description>
       
@@ -55,7 +45,7 @@
       <title>Kubernetes</title>
       <link>http://localhost:1313/tags/kubernetes/</link>
       <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
       <guid>http://localhost:1313/tags/kubernetes/</guid>
       <description></description>
       
@@ -65,8 +55,18 @@
       <title>Linux</title>
       <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
       <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Local AI</title>
+      <link>http://localhost:1313/tags/local-ai/</link>
+      <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
+      <guid>http://localhost:1313/tags/local-ai/</guid>
       <description></description>
       
     </item>
@@ -75,7 +75,7 @@
       <title>MLOps</title>
       <link>http://localhost:1313/tags/mlops/</link>
       <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
       <guid>http://localhost:1313/tags/mlops/</guid>
       <description></description>
       

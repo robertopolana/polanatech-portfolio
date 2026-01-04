@@ -6,8 +6,30 @@
     <description>Recent content in Categories on PolanaTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="http://localhost:1313/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>robertopolana@gmail.com (Roberto Polana)</managingEditor>
+    <webMaster>robertopolana@gmail.com (Roberto Polana)</webMaster>
+    <copyright>© 2026 Roberto Polana</copyright>
+    <lastBuildDate>Sat, 03 Jan 2026 22:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Infrastruttura</title>
+      <link>http://localhost:1313/it/categories/infrastruttura/</link>
+      <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
+      <guid>http://localhost:1313/it/categories/infrastruttura/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Progetti</title>
+      <link>http://localhost:1313/it/categories/progetti/</link>
+      <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
+      <guid>http://localhost:1313/it/categories/progetti/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

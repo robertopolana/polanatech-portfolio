@@ -6,18 +6,18 @@
     <description>Recent content on PolanaTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2026 Blowfish</copyright>
+    <managingEditor>robertopolana@gmail.com (Roberto Polana)</managingEditor>
+    <webMaster>robertopolana@gmail.com (Roberto Polana)</webMaster>
+    <copyright>© 2026 Roberto Polana</copyright>
     <lastBuildDate>Sat, 03 Jan 2026 22:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Building Polana AI: Da Zero a MLOps Locale con Kubernetes e Gemma 3</title>
+      <title>Building Polana AI: From Zero to Local MLOps with Kubernetes and Gemma 3</title>
       <link>http://localhost:1313/posts/polana-ai-build/</link>
       <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>robertopolana@gmail.com (Roberto Polana)</author>
       <guid>http://localhost:1313/posts/polana-ai-build/</guid>
-      <description>&lt;h2 class=&#34;relative group&#34;&gt;Il Contesto&#xA;    &lt;div id=&#34;il-contesto&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#il-contesto&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Nel mio percorso di specializzazione come &lt;strong&gt;IT Administrator&lt;/strong&gt; verso ruoli &lt;strong&gt;MLOps&lt;/strong&gt;, ho deciso di costruire un&amp;rsquo;infrastruttura locale per gestire l&amp;rsquo;intero ciclo di vita di un&amp;rsquo;applicazione basata su Intelligenza Artificiale. L&amp;rsquo;obiettivo era passare dalla teoria alla pratica, orchestrando container e modelli LLM in un ambiente controllato ma scalabile, sfruttando le mie basi solide (CompTIA A+, ITF+, Azure Fundamentals).&lt;/p&gt;</description>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;The Context&#xA;    &lt;div id=&#34;the-context&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#the-context&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;On my path as an &lt;strong&gt;IT Specialist&lt;/strong&gt; specializing toward &lt;strong&gt;MLOps&lt;/strong&gt; roles, I decided to build a local infrastructure to manage the entire lifecycle of an AI-based application. The goal was to move from theory to practice, orchestrating containers and LLM models in a controlled yet scalable environment.&lt;/p&gt;</description>
       
     </item>
     
