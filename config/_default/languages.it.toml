@@ -12,10 +12,10 @@ title = "PolanaTech"
   description = "Un potente, leggero tema per Hugo."
 
 [params.author]
-  name = "Blowfish"
+  name = "PolanaTech"
   image = "img/blowfish_logo.png"
-  headline = "Un potente, leggero tema per Hugo."
-  bio = "Un potente, leggero tema per Hugo."
+  headline = ""
+  bio = ""
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },
