@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Blowfish</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Sat, 03 Jan 2026 22:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Infrastruttura</title>
+      <link>http://localhost:1313/categories/infrastruttura/</link>
+      <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/categories/infrastruttura/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Progetti</title>
+      <link>http://localhost:1313/categories/progetti/</link>
+      <pubDate>Sat, 03 Jan 2026 22:00:00 +0100</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>http://localhost:1313/categories/progetti/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
