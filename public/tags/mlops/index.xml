@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MLOps on Blowfish</title>
+    <title>MLOps on PolanaTech</title>
     <link>http://localhost:1313/tags/mlops/</link>
-    <description>Recent content in MLOps on Blowfish</description>
+    <description>Recent content in MLOps on PolanaTech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
