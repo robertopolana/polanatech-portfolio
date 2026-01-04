@@ -19,4 +19,5 @@ title = "PolanaTech"
   bio = ""
   links = [
     { github = "https://github.com/robertopolana" },
+    { linkedin = "https://www.linkedin.com/in/roberto-polana-65b431135/" },
   ]
